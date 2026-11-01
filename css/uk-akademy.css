@@ -1,0 +1,8 @@
+
+/* Uk-Akademy: навчальний редизайн — 2026 */
+.navbar-brand { color:#ffffff !important; font-size:29px !important; font-weight:800 !important; text-decoration:none !important; letter-spacing:-.5px; white-space:nowrap; line-height:1.2; }
+.navbar-brand:hover, .navbar-brand:focus { color:#cbd5e1 !important; }
+.academic-notice { color:#e9f7ff; font-size:13px; line-height:1.65; max-width:940px; margin:0 auto 15px; text-align:center; }
+.academic-form-info { max-width:800px; padding:12px 20px; margin:0 auto 25px; text-align:center; font-size:14px; color:#42697e; }
+.navbar .nav-link:hover, .navbar .nav-link:focus { color:#1687b5 !important; }
+@media(max-width:767px){ .navbar-brand{font-size:23px !important;} .academic-notice{padding:0 12px;} }
